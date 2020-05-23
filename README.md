@@ -1,2 +1,2 @@
-# Testris-game
+# Tetris-game
 Basic Tetris Game
